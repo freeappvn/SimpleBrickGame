@@ -2,12 +2,12 @@ Simple Brick Games - https://github.com/TobiasBielefeld/Simple-Brick-Games -
 Copyright 2015 - Tobias Bielefeld - tobias.bielefeld@gmail.com -
 Licensed under GPLv3+ https://www.gnu.org/licenses/gpl-3.0
 
-Updated By US:
-    Google Cloud Messaging
-    Application Notification
-    Add Ads + New App Icon
-    Google Analytics
-    Crash Analytics
+Updated By US:<br/>
+    Google Cloud Messaging<br/>
+    Application Notification<br/>
+    Add Ads + New App Icon<br/>
+    Google Analytics<br/>
+    Crash Analytics<br/>
 
 ## License
 Full license text can be found [here](./LICENSE.txt)
