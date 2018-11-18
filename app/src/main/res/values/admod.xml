@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--start release-->
+    <!--<string name="admod_app_id">ca-app-pub-8568507583439200~6522193826</string>-->
+    <!--<string name="interstitial" translatable="false">/21617015150/21724317/21767009672</string>-->
+    <string name="interstitial" translatable="false">/6499/example/interstitial</string>
+
+    <!--end release-->
+
+    <!--test-->
+    <!--<string name="admod_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <!--<string name="banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--end test-->
+</resources>
